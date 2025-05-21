@@ -33,12 +33,15 @@ We leverage EDA to answer the following questions:
 
 ## Results / Recommendations
 
-### First Question
+### Which player represent a market opportunity?
 For better visualization of what can be achieved we use the case scenario that we are data analysts working for Liga Deportiva Universitaria de Quito, tailoring our results and presentation for that club.
 
-To get a sense of which players will increase or decrease their market value we can leverage the machine learning predictor that was created. By analyzing all the 25 players that belong to the current roster we can see that Oscar Zambrano is the player who is the most likely to gain market value. He is a young, right-footed midfielder that counts with an overall rating of 69 but that also counts with a 'potential' rating of 82. With solid long passing, short passing, vision, and stamina scores he is an asset for any team that is searching for a strong defensive midfielder that is good at keeping positional control of the midfield while also having the technical abilities to make accurate passes that drive the attack towards the opposition's goal.
+To get a sense of which players will increase or decrease their market value we can leverage the machine learning predictor that was created. By analyzing all the 25 players that belong to the current roster we can see that Oscar Zambrano stands as the most favorable market opportunity. He is a young, right-footed midfielder that counts with an overall rating of 69 but that also counts with a 'potential' rating of 82. With solid long passing, short passing, vision, and stamina scores he is an asset for any team that is searching for a strong defensive midfielder that is good at keeping positional control of the midfield while also having the technical abilities to make accurate passes that drive the attack towards the opposition's goal.
 
 With this information in hand we can recommend that it would be an opportunity for LDU to sell this player in the upcoming market. He is a young midfielder with great prospect of growth for the future, whose player profile are sought after by plenty clubs. Taking a deeper look a his data, we can see that he has 1 year left of contract, meaning that LDU has to act fast before his contract runs up. From industry knowledge we know that LDU is a club who is typically pressured to keep itself in the top of the ecuadorian and southamerican competitions, therefore they are typically not known for sustaining and developing young players in the first squad. Besides, taking a look at LDU's roster with our dashboard we can see that the midfield is already filled with plenty of experienced players, which won't leave much chance for Zambrano to gain minutes and experience.      
 
-### Second Question
+### Looking for a player under certain conditions
+
+It is very common for coaches to request to their teams for player alternatives that meet certain conditions. In this occasion we will fullfill that request for a young, right footed defender. Since the team is on a budget the coach has also asked that the player's value does not exceed 10.000.000 euros. By using the created dashboard we can come up with a shortlist of names to further investigate: 
+1. 
 

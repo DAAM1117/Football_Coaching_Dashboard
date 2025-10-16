@@ -42,6 +42,27 @@ With this information in hand we can recommend that it would be an opportunity f
 
 ### Looking for a player under certain conditions
 
-It is very common for coaches to request to their teams for player alternatives that meet certain conditions. In this occasion we will fullfill that request for a young, right footed defender. Since the team is on a budget the coach has also asked that the player's value does not exceed 10.000.000 euros. By using the created dashboard we can come up with a shortlist of names to further investigate: 
-1. 
+It is very common for coaches to request to their teams for player alternatives that meet certain conditions. In this occasion we will fullfill that request for a young, right footed defender. Since the team is on a budget the coach has also asked that the player's value does not exceed 10.000.000 euros. Using the dashboard's filters to narrow our selection gave us a shortlist of 6 candidates that all meet the specified criterias.From here on, we conduct a deeper analysis of each player's potential, release clause value and fluctuation in market value to determine the best choice.  By using the created dashboard we can come up with a selection of 3 players:
+    
+1. D. Coppola
+<img width="1901" height="1023" alt="image" src="https://github.com/user-attachments/assets/cf32f208-f970-4102-82da-8e2c77d2be13" />
+
+2. Z. Debast
+<img width="1900" height="1021" alt="image" src="https://github.com/user-attachments/assets/a0c9b08e-fde2-4042-8f7a-e7362b341443" />
+
+3. A. Nagalo
+<img width="1900" height="1023" alt="image" src="https://github.com/user-attachments/assets/0dbae217-6d0e-44ce-9722-ccab4e84150f" />
+
+
+When comparing the dashboard results for all 3 players we can observe that A. Nagalo is the best overall choice, as he is not only the player with the highest 'potential' rating, he is also the one with the lowest salary, which makes it easier to negotiate wages with him. According to our prediction algorithm he is also the one with the highest predicted market value. All indicators point that he is not only a sound decision for squad building but also a good investment opportunity financially speaking.
+
+### Finding a replacement for a certain player
+
+Rumour has it that L. Alzugaray will be signing for a brazilian team at the end of the season. We can leverage the recommendation algorithm we developed and integrated into the dashboard to evaluate his top 3 best replacements options.
+
+<img width="1898" height="1025" alt="image" src="https://github.com/user-attachments/assets/7d824b63-277f-4d62-8323-91c638ec99ae" />
+
+By conducting a similar analysis to the ones in previous sections we can give the recommendation to the club's coaches that the best replacement for Alzugaray would be Francisco Conciençao as he is the youngest player out of the selection (which alligns with the develop young talents mentality at the club). Not only is his 'potential' rating higher than the other candidates, making him a financially sound decision, but our recommendation algorithm ensures that he has a similar playing style and set of skills that characterize the creative players like Alzugaray. Yet another benefit to Francisco is his relatively low release clause and salary, the other players are more experienced and settled, making their signing a much more costly operation. In case the club was looking for a much more secure signing with a higher guarantee of instant impact, R. Garro is good option as his vision, long pass, positioning and ball control ratings reflect the profile of that solid midfielder that provides stability in attacking and defending scenarios.  
+
+
 

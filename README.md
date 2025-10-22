@@ -6,7 +6,7 @@ Our football dashboard consists of 3 main components:
 - Team Overview: Platform that provides a general overview of the coach's club roster.
 - Scouting Platform: A platform that presents the coach with players that meet a desired set of conditions.
 
-In order to add value with our dashboard, it was decided that we would leverage machine learning algorithms to predict players' future market value. In this way, we are not only looking at descriptive analytics but we are also harnessing predictive analytics to support our findings and claims. On the other hand, the scouting platform utilizes similarity-based algorithms to provide recommendations of players with similar profiles. The code for the algorithms can be found here in Github while the Tableau dashboard can be  visualized [here](https://public.tableau.com/app/profile/daniel.andrade5878/viz/FootballDashboard_17425254712750/Homepage?publish=yes) (Please donwload the file for optimum visualization and to avoid problems with extensions)
+In order to add value with our dashboard, it was decided that we would leverage machine learning algorithms to predict players' future market value. In this way, we are not only looking at descriptive analytics but we are also harnessing predictive analytics to support our findings and claims. On the other hand, the scouting platform utilizes similarity-based algorithms to provide recommendations of players with similar profiles. The code for the algorithms can be found here in Github while the Tableau dashboard can be  visualized [here](https://public.tableau.com/app/profile/daniel.andrade5878/viz/TheReviewer/Homepage) (Please donwload the file for optimum visualization and to avoid problems with extensions)
    
   
 ## Data Sources
